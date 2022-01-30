@@ -1,5 +1,5 @@
-# Engineering Design IV
-## CPE 322, Section A
+# Engineering Design VI
+## EE 322, Section A
 ### jwong881's Repository
 
 **Bold**
