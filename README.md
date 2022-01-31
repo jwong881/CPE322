@@ -14,7 +14,7 @@
 This is a quote block
 ```
 
-This is a link to the [repository](https://github.com/jwong881/EE322.git)
+This is a link to the [repository](https://github.com/jwong881/EE322-A.git)
 
 - This
 - Is
